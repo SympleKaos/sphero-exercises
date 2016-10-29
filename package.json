@@ -1,0 +1,19 @@
+{
+  "name": "sphero-events",
+  "version": "1.0.0",
+  "description": "This repo will hold a collection of exercises created by our code community to teach kids about programming using the sphero.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TahoeJS/sphero-exercises.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TahoeJS/sphero-exercises/issues"
+  },
+  "homepage": "https://github.com/TahoeJS/sphero-exercises#readme"
+}

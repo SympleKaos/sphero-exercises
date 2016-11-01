@@ -12,11 +12,11 @@ develop a "feel" for how the sphero moves.
 
 1. Setup
   - Mark starting and end points approximately 1-3 meters apart.
-   - The marks should be far enough apart that the sphero does not reach the end point using the initial paremeters.
+    - The marks should be far enough apart that the sphero does not reach the end point using the initial paremeters.
   - Program includes one Roll Action
-   - Set Speed to a slow - medium value
-   - Set inital Duration to 1 second
-   - Set Heading to 0
+    - Set Speed to a slow - medium value
+    - Set inital Duration to 1 second
+    - Set Heading to 0
   - Place sphero at start point
   - Remind participants to Aim sphero
 2. Exercise

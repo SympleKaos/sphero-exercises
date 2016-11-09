@@ -6,7 +6,7 @@ Three components to lightning lab:
 
 - Robots: Connectable and programable devices
 - Programs: instructions that tell the robots what to do
-- Activities: fun ways to learn and code with sphero, chariot races, painting
+- Activities: fun ways to learn and code with Sphero, chariot races, painting
 
 #### Sections
 
@@ -14,11 +14,11 @@ Three components to lightning lab:
   - real time hub for LL community
 - My Programs
   - you programs
-  - sphero dev programs
+  - Sphero dev programs
   - community programs
 - Activities
   - Workbook
-  - sphero
+  - Sphero
   - community
 - Drive
 
@@ -47,7 +47,7 @@ Three components to lightning lab:
 - Drag a loop block from the controls category.
 - Drag the roll and the delay into the loop block.
   - Loops have a count option.  Tap it and select 4; once for each of our squares sides.
-- Now we need to increment 90 degreees to our heading on each loop
+- Now we need to increment 90 degrees to our heading on each loop
 - Go to the `operators category` and drag the add operator onto the heading option in our roll block
   - This created a different type of option with `0 + 0`.  Each of those are values that can be added and used to change the heading.
   - Go to the sensor category and find `Heading`.  This is the current heading of Sphero.  We can use this to change our heading on each loop.
@@ -60,7 +60,7 @@ Three components to lightning lab:
 Sphero has 3 LED lights on it.  There are the two main ones and the blue tail light.  There are 5 action blocks that directly control the light:
 
 1. Set color
-  - Set rgb values
+  - Set RGB values
   - set brightness
 1. Delay
   - This can be used to hold a LED color for a certain amount of time
@@ -69,25 +69,22 @@ Sphero has 3 LED lights on it.  There are the two main ones and the blue tail li
 3. Strobe
   - Will turn the LED light on and off over a specific time period for a set number of times
 4. Back LED
-  - Allos us to turn on the tail light to a specific brightness
+  - Allows us to turn on the tail light to a specific brightness
 
 
 ### Jackolantern
-
 
 # Appendix
 
 ## Menu Categories
 
 - Actions
-  - things that make th robot do a specific thing, movement.
+  - things that make the robot do a specific thing, movement.
 - Controls
-  - These allow us to control blocks of code and do things like loops (repeat a block) 
+  - These allow us to control blocks of code and do things like loops (repeat a block)
 - Operators
   - These are things that allow us to change values in our programs.  We can do things like addition, substraction, and a lot more.
 - Sensors
-  - This category allows us to use information about what our robot is doing.  We can get information, like heading, speed, and color 
+  - This category allows us to use information about what our robot is doing.  We can get information, like heading, speed, and color
 
 ## Variables
-
-

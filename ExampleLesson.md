@@ -10,8 +10,8 @@ This exercise will teach people how to program a square using the Lightning Lab 
   - Heading
   - Duration
   - Speed
-  
-## Walktrhough
+
+## Walkthrough
 
 - Describe the process
 - Maybe snapshots of the program
